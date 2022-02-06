@@ -106,7 +106,8 @@
 }
 
 
-
+.notion-icon__search:hover path:nth-child(2) {
+  fill: rgba(0,0,0)!important; }
 
 .notion-toggle.bg-brown {
   display: none !important;
