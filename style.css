@@ -42,7 +42,7 @@
 
   --heading-font-family: ;
   --body-font-family: 'Poppins' !important;
-  --color-primary: #ffffff!important;
+  --color-primary: #141414!important;
   --cta-color-bg: #181818!important;
   --cta-color-text-link: #ffffff!important;
   --cta-padding: 10px 20px!important;
@@ -105,9 +105,6 @@
   --color-border-dark: rgba(55, 53, 47, 0.16);
 }
 
-
-.notion-icon__search:hover path:nth-child(2) {
-  fill: rgba(0,0,0)!important; }
 
 .notion-toggle.bg-brown {
   display: none !important;
@@ -430,6 +427,7 @@ margin-right: auto !important;
   width: 50px!important;
   height: 50px!important;
 }
+
 
 
 .notion-icon notion-icon__search:hover {
