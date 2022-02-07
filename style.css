@@ -509,6 +509,9 @@ ul>.notion-list-item:before {
   display: inline-block !important;
   margin-left: -1em !important;
   font-size: 16px !important;
+}
+.notion-list-item {
+ 
   font-family: var(--body-font-family) !important;
 }
 
