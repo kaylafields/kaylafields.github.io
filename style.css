@@ -1048,10 +1048,7 @@ div.code-toolbar>.toolbar>.toolbar-item>span:hover {
   opacity: .7!important;
 }
 
-.notion-root>.notion-callout .notion-collection-card:hover {
-  opacity: 1!important;
-  transform: translateY(0px)!important;
-}
+
 
 .notion-root>.notion-callout .notion-collection-card__cover img {
   filter: grayscale(100%) brightness(0%) contrast(50%)!important;
