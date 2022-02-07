@@ -687,8 +687,8 @@ ul>.notion-list-item:before {
   white-space: normal !important; }
 
 .gallery.notion-collection-card .notion-property__title {
-  align-items: center!important;
-  justify-content: center !important;
+  align-items: left !important;
+  justify-content: left !important;
   padding-bottom: 0 !important;
   font-size: 25px !important;
   margin-top: 10px !important;
