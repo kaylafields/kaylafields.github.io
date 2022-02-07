@@ -90,16 +90,16 @@
   --color-bg-brown-light: #ffffff05!important;
 
   
-  --color-pill-default: #fffbf7 !important;
+  --color-pill-default: #ecd9c6 !important;
   --color-pill-gray: #d6d6d6 !important;
-  --color-pill-brown: #a88dd8 !important;
-  --color-pill-orange: #faccb0 !important;
-  --color-pill-yellow: #fae18f !important;
-  --color-pill-green: #b5dbca !important;
-  --color-pill-blue: #9dc5ec !important;
-  --color-pill-purple: #e09ffa !important;
-  --color-pill-pink: #fda7de !important;
-  --color-pill-red: #f5afa5 !important;
+  --color-pill-brown: #e8daff !important;
+  --color-pill-orange: #ffe6d6 !important;
+  --color-pill-yellow: #f8efd2 !important;
+  --color-pill-green: #d4f5e6 !important;
+  --color-pill-blue: #d6e8fa !important;
+  --color-pill-purple: #edd2f8 !important;
+  --color-pill-pink: #f7cde7 !important;
+  --color-pill-red: #f8cfc9 !important;
   --color-accent-bg: rgb(119, 184, 209);
   --color-border-default: rgba(58, 58, 58, 0.8);
   --color-border-dark: rgba(55, 53, 47, 0.16);
