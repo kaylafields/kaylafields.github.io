@@ -648,17 +648,9 @@ ul>.notion-list-item:before {
   box-shadow: 0 10px 15px -10px rgb(0 0 0 / 9%)!important;
 }
 
-.notion-collection-card.board:hover {
-  box-shadow: 0 10px 20px -10px rgb(0 0 0 / 17%)!important;
-  transform: translateY(-4px)!important;
-}
 
 
 
-.notion-collection-gallery>.notion-collection-card:hover {
- 
-    
-}
 
 .notion-semantic-string .individual {
   color:var(--color-text-default)!important;
