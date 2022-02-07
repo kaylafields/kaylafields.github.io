@@ -638,7 +638,7 @@ ul>.notion-list-item:before {
 }
 
 .notion-collection-card {
-  border: solid 2px #1e1e1e !important;
+  
 }
 
 .notion-collection-card.board {
@@ -680,6 +680,11 @@ ul>.notion-list-item:before {
   min-height: 32px !important;
 
 }
+
+.gallery .notion-collection-card__property .notion-semantic-string {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: normal !important; }
 
 .gallery.notion-collection-card .notion-property__title {
   align-items: center !important;
