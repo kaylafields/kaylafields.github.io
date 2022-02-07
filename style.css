@@ -715,6 +715,7 @@ ul>.notion-list-item:before {
   color:var(--color-text-default)!important;
   opacity: 1 !important;
   margin-top: 10px;
+  font-family: var(--body-font-family)!important;
 }
 
 .notion-collection-gallery>.notion-collection-card {
