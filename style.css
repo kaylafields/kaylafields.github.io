@@ -719,6 +719,11 @@ ul>.notion-list-item:before {
   padding-inline-start: 0px!important;
   color:var(--color-text-default)!important;
   opacity: 1 !important;
+  margin-top: 10px;
+}
+
+.notion-collection-gallery>.notion-collection-card {
+  padding: 20px;
 }
 
 .notion-collection-card__cover img {
