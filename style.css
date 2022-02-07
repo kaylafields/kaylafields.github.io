@@ -687,7 +687,7 @@ ul>.notion-list-item:before {
   white-space: normal !important; }
 
 .gallery.notion-collection-card .notion-property__title {
-  align-items: center !important;
+  align-items: center!important;
   justify-content: center !important;
   padding-bottom: 0 !important;
   font-size: 25px !important;
@@ -698,6 +698,7 @@ ul>.notion-list-item:before {
   color:var(--color-text-default)!important;
   opacity: 1;
 }
+
 .notion-collection-card .notion-property__title {
   padding: 0px!important;
 }
