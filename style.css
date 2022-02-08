@@ -642,18 +642,12 @@ ul>.notion-list-item:before {
   overflow: auto!important;
 }
 
-.notion-collection-card {
-  
-}
 
 .notion-collection-card.board {
   border-radius: 10px !important;
   border: 0!important;
-  transition: var(--transition)!important;
   box-shadow: 0 10px 15px -10px rgb(0 0 0 / 9%)!important;
 }
-
-
 
 
 
